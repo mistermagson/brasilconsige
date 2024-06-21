@@ -16,7 +16,7 @@ export default function Home() {
           </nav>
         </header>
         <main>
-          <Image src="/images/logo.jpg" alt="BrasilConsige" width={500} height={300} />
+          <Image src="/images/logo.png" alt="BrasilConsige" width={500} height={300} />
           <h2>Proteção Familiar</h2>
           <p>Bem-vindo à BrasilConsige Proteção Familiar...</p>
         </main>
